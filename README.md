@@ -1,5 +1,8 @@
 # Simple To-Do List App
 A clean and responsive to-do list web application that allows users to add, complete, and delete tasks with ease.
+
+
+
 ![image](https://github.com/user-attachments/assets/8edc86b7-5519-4a65-8828-069ee46d116a)
 
 ## Features
